@@ -62,17 +62,3 @@ The visualization part of `run_encoder.py` is still under consideration.
   <td> <center>Prediction trajectory</center></td>
 </tr>  
 </table>
-
-## TODOs
-
-Appreciate any helps for the followings issues.
-
-1. Test and add support for GPU platform. 
-2. MLP building block has been implemented for the encoder and decoder. Consider other building blocks (e.g. CNN, RNN). To do this, implement other class inside `nri_decoder.py` and `nri_encoder.py`.
-3. For data without ground truth edge information, we need to combine the encoder and the decoder together.
-4. Visualization for encoder output result.
-
-Any minor adjustments are also welcomed! 
-
-The Github Actions test whether data can flow through the trained model.
-You can use two test files in the `tests` folder. 
