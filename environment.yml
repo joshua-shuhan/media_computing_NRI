@@ -1,0 +1,54 @@
+name: para_esn
+channels:
+  - conda-forge
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=1_llvm
+  - bzip2=1.0.8=h7f98852_4
+  - ca-certificates=2021.10.8=ha878542_0
+  - cffi=1.15.0=py38h3931269_0
+  - cycler=0.11.0=pyhd8ed1ab_0
+  - freetype=2.10.4=h0708190_1
+  - icu=67.1=he1b5a44_0
+  - kiwisolver=1.4.2=py38h43d8883_1
+  - ld_impl_linux-64=2.36.1=hea4e1c9_2
+  - libblas=3.9.0=14_linux64_mkl
+  - libcblas=3.9.0=14_linux64_mkl
+  - libffi=3.4.2=h7f98852_5
+  - libgcc-ng=11.2.0=h1d223b6_15
+  - libgomp=11.2.0=h1d223b6_15
+  - liblapack=3.9.0=14_linux64_mkl
+  - libnsl=2.0.0=h7f98852_0
+  - libpng=1.6.37=h21135ba_2
+  - libprotobuf=3.19.4=h780b84a_0
+  - libstdcxx-ng=11.2.0=he4da1e4_15
+  - libuuid=2.32.1=h7f98852_1000
+  - libzlib=1.2.11=h166bdaf_1014
+  - llvm-openmp=13.0.1=he0ac6c6_1
+  - matplotlib=3.2.2=1
+  - matplotlib-base=3.2.2=py38h5d868c9_1
+  - mkl=2022.0.1=h8d4b97c_803
+  - ncurses=6.3=h27087fc_1
+  - ninja=1.10.2=h4bd325d_1
+  - numpy=1.22.3=py38h1d589f8_2
+  - openssl=3.0.2=h166bdaf_1
+  - pip=22.0.4=pyhd8ed1ab_0
+  - pycparser=2.21=pyhd8ed1ab_0
+  - pyparsing=3.0.8=pyhd8ed1ab_0
+  - python=3.8.13=ha86cf86_0_cpython
+  - python-dateutil=2.8.2=pyhd8ed1ab_0
+  - python_abi=3.8=2_cp38
+  - pytorch=1.11.0=cpu_py38hde1b6bc_0
+  - readline=8.1=h46c0cb4_0
+  - setuptools=62.1.0=py38h578d9bd_0
+  - six=1.16.0=pyh6c4a22f_0
+  - sleef=3.5.1=h9b69904_2
+  - sqlite=3.38.2=h4ff8645_0
+  - tbb=2021.5.0=h924138e_1
+  - tk=8.6.12=h27826a3_0
+  - tornado=6.1=py38h0a891b7_3
+  - typing_extensions=4.2.0=pyha770c72_0
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - xz=5.2.5=h516909a_1
+  - zlib=1.2.11=h166bdaf_1014
+prefix: /home/studio-lab-user/.conda/envs/para_esn
